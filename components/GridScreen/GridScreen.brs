@@ -13,7 +13,7 @@ end sub
 sub OnItemFocused() ' invoked when another item is focused
     focusedIndex = m.rowList.rowItemFocused ' get position of focused item
     row = m.rowList.content.getChild(focusedIndex[0]) ' get all items of row
-    item = row.GetChild(focusedIndex[0]) ' get focused item
+    item = row.GetChild(focusedIndex[1]) ' get focused item
     ' update description label with description of focused item
     m.descriptionLabel.text = item.description
     ' update title label with title of focused item
@@ -26,7 +26,7 @@ end sub
 
 ' this method converts seconds to mm:ss format
 ' getTime(138) returns 2:18
-function GetTime(length as Integer) as String
+function GetTime(length as integer) as string
     minutes = (length \ 60).ToStr()
     seconds = length MOD 60
     if seconds < 10
