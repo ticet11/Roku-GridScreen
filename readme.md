@@ -1,6 +1,6 @@
-# Creating a Grid Screen
+# Creating a Roku Channel
 
-Following along with the [Grid Screen tutorial](https://developer.roku.com/en-gb/videos/courses/rsg/grid-screen.md) from Roku Developers. This is a very barebones Roku app with just a main menu of thumbnails.
+Following along with the [SceneGraph: Build a channel course](https://developer.roku.com/videos/courses/rsg/overview.md) from Roku Developers. This is a very barebones Roku app with just a main menu of thumbnails.
 
 To run this application, you have to do [a bit of setup](https://developer.roku.com/en-gb/videos/courses/rsg/development-setup.md). First, put your Roku device in developer mode, by pressing
 
