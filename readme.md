@@ -17,7 +17,7 @@ You'll have to have a roku account and request developer privileges.
 Then, if your Roku device and work station are on the same network, you should be able to add the app to your device and see it in action.
 
 <img src="./images/ActionShot.png">
-
+---
 ## Attribution
 ---
 <img src="./images/home-solid.svg" width="25" height="25" style="filter: invert(99%) sepia(94%) saturate(2%) hue-rotate(251deg) brightness(107%) contrast(100%);">, <img src="./images/arrow-up-solid.svg" width="25" height="25" style="filter: invert(99%) sepia(94%) saturate(2%) hue-rotate(251deg) brightness(107%) contrast(100%);">, <img src="./images/arrow-right-solid.svg" width="25" height="25" style="filter: invert(99%) sepia(94%) saturate(2%) hue-rotate(251deg) brightness(107%) contrast(100%);">, <img src="./images/arrow-left-solid.svg" width="25" height="25" style="filter: invert(99%) sepia(94%) saturate(2%) hue-rotate(251deg) brightness(107%) contrast(100%);"> from Font Awesome under a [CC BY 4.0 License](https://fontawesome.com/license/free)
