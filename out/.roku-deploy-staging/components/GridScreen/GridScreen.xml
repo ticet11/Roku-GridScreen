@@ -13,7 +13,7 @@
         <RowList 
             itemComponentName="RowListItemComponent" 
             id="rowList" 
-            translation="[80,350" 
+            translation="[80,350]" 
             numRows="2" 
             rowitemSize="[[320,180]]" 
             rowItemSpace="[[20,0]]" 
