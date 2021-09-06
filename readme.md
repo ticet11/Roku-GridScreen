@@ -4,18 +4,18 @@ Following along with the [Grid Screen tutorial](https://developer.roku.com/en-gb
 
 To run this application, you have to do [a bit of setup](https://developer.roku.com/en-gb/videos/courses/rsg/development-setup.md). First, put your Roku device in developer mode, by pressing
 
-> <img src="./images/home-solid.svg" width="50" height="50">,
-> <img src="./images/home-solid.svg" width="50" height="50">,
-> <img src="./images/home-solid.svg" width="50" height="50">,
-> <img src="./images/arrow-up-solid.svg" width="50" height="50">,
-> <img src="./images/arrow-up-solid.svg" width="50" height="50">,
-> <img src="./images/arrow-right-solid.svg" width="50" height="50">,
-> <img src="./images/arrow-left-solid.svg" width="50" height="50">,
-> <img src="./images/arrow-right-solid.svg" width="50" height="50">,
-> <img src="./images/arrow-left-solid.svg" width="50" height="50">,
-> <img src="./images/arrow-right-solid.svg" width="50" height="50">
+<img src="./images/home-solid.svg" width="50" height="50">,
+<img src="./images/home-solid.svg" width="50" height="50">,
+<img src="./images/home-solid.svg" width="50" height="50">,
+<img src="./images/arrow-up-solid.svg" width="50" height="50">,
+<img src="./images/arrow-up-solid.svg" width="50" height="50">,
+<img src="./images/arrow-right-solid.svg" width="50" height="50">,
+<img src="./images/arrow-left-solid.svg" width="50" height="50">,
+<img src="./images/arrow-right-solid.svg" width="50" height="50">,
+<img src="./images/arrow-left-solid.svg" width="50" height="50">,
+<img src="./images/arrow-right-solid.svg" width="50" height="50">
 
-> Home, Home, Home, Up, Up, Right, Left, Right, Left, Right
+Home, Home, Home, Up, Up, Right, Left, Right, Left, Right
 
 This will bring up the developer mode page. You'll have to agree to Roku's terms. Record the URL from the device and allow it to reset. Set a password for the dev tools and remember the username.
 
