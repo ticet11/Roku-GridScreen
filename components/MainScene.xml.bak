@@ -24,7 +24,6 @@
 			horizAlign="center" 
 			vertAlign="center" 
 			visible="false" 
-			font="font:MediumBoldSystemFont" 
-			/>
+			font="font:MediumBoldSystemFont" />
 	</children>
 </component>
